@@ -38,7 +38,7 @@ if (!gg) {
 // -------------------------------------------------------------- //
 
 
-global.owner = gg.split(",");
+global.owner = gg.split("254746657141");
 global.mongodb = process.env.MONGODB || "mongodb+srv://fantox:xrto71r@cluster0.dnlowts.mongodb.net/?retryWrites=true&w=majority";
 global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || "-";
